@@ -30,6 +30,7 @@ You can query your **custom documents** (e.g., `.txt` files), and the chatbot wi
 
  **Try it now:** [Live App](https://sameershah-chatbot.streamlit.app/)  
 
+---
  
 
 ### 1. Clone the repository
