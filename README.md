@@ -10,6 +10,13 @@ You can query your **custom documents** (e.g., `.txt` files), and the chatbot wi
 
 ---
 
+##  Screenshot
+
+<img width="1918" height="904" alt="image" src="https://github.com/user-attachments/assets/21369cdf-d390-4ead-8765-c7ce49da5ed0" />
+
+
+---
+
 ##  Project Structure
 ```bash
 ├── .devcontainer/
